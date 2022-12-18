@@ -8,7 +8,7 @@ This tutorial outlines how to unlock, lock, and disable accounts. In addition, i
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: Resetting Passwords and Unlocking Accounts](https://www.youtube.com/watch?v=LQ__-nVUELs)
 
 <h2>Environments and Technologies Used</h2>
 
